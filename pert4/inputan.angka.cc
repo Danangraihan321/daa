@@ -1,0 +1,27 @@
+#include <iostream>
+
+using namespace std ;
+
+int main() {
+    /* pernyataan sesuai soal */
+    return 0;
+
+}
+
+
+
+
+
+
+
+
+
+BUATLAH CODINGAN 
+INPUTANYA ANGKA 1 DAN ANGKA 2 
+TRUS PRINT ANGKA YANG DI INPUT
+DOBLEKAN ANGKA PRINT TERSEBUT
+
+
+BUATLAH CODINGAN 
+INPUTNYA JUMLAH BELI DAN BAYAR
+TERUS PRINT KEMBALIANYA
